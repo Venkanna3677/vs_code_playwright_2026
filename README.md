@@ -1,0 +1,2 @@
+# vs_code_playwright_2026
+vs_code_playwright_2026
